@@ -1,8 +1,7 @@
 # STA380-INTRO-TO-ML-
 ML Part 2: Take-home Exercises
 
-This Repo consists of all the exercises for ML Part 2 which is done for the Machine Learning Course Part of the UT-Austin MSBA Curriculum.
-
+This Repo consists of all the exercises for ML Part 2.
 # Group members include:
 1) Adithya Murali - (EID: am233329)
 2) Sameer Khan - (EID: sak4225)
