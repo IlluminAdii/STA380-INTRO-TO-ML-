@@ -26,4 +26,5 @@ The Following problems are done in one Python Notebook called ML2
 8)Association rule mining
 
 The following problem is done in another python notebook for computational reasons and easier maneuverability.
+
 9) Image Classification with Neural Networks 
